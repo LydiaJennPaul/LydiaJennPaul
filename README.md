@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LydiaJennPaul
-- 👀 I’m interested in Singing
+- 👀 I’m interested in multiple hobbies
 - 🌱 I’m currently learning User Interface Development
-- 💞️ I’m looking to collaborate on User Experience Design 
+- 💞️ I’m looking to collaborate on User Experience Design & Dev 
 
 
 <!---
